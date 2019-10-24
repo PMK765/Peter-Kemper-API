@@ -11,5 +11,8 @@
     "url": "\u0016\u0016https://github.com/PMK765/Peter-Kemper-API"
   },
   "author": "Peter Kemper",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

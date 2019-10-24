@@ -1,0 +1,2 @@
+# Don't add node_modules to remote
+/node_modules
